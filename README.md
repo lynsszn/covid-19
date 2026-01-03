@@ -1,5 +1,4 @@
 # covid-19 analysis
-Power Bi analysis on covid-19 data.
 My First Power BI Dashboard: 2020 - The year we all stayed home..
 
 Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation (COVID) attacked (okay… March 2020, watched too much of Avatar), the world went from “Let’s open our textbooks to..” to “Mute yourself, we can’t hear the teacher” in a matter of weeks.
